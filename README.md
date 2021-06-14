@@ -1,5 +1,5 @@
 # DisManager Informations
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![Discord](https://img.shields.io/discord/850796637839556649.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![Discord](https://img.shields.io/discord/853744320213680161.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SjNDuMvFhn)
 <p>DisManager is a moderation tool for your server. From level system to spam filter </p>
 
 1. **General Informations**
@@ -43,6 +43,7 @@ here is a small list of what it can do
 | unban   | unban a user        | ex: -unban Name#0000      |
 | addwarn   | Add warn points to user        | ex: -addwarn @name 1 ( mods can use too )     |
 | rmwarn   | remove warn points from user        | ex: -rmwarn Name#0000 2 (mods can use too)    |
+| slowmode   | set slowmode in the channel        | ex: -slowmode time ( 0 = disable)    |
 
 ## User Commands
 | Command      | Description | extra informations     |
