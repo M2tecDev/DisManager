@@ -23,4 +23,6 @@ All notable changes to this project will be documented in this file.
 - Steam Scam filter
 - slap command ( under development )
 - Leveling system update
+- add reminder command
+- account age check ( only with welcome is active )
 
